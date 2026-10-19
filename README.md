@@ -1,6 +1,6 @@
 # Hi, I'm Dillon 👋
 
-**Flight simulator engineer who builds software, with 10 years in aviation.** I keep Boeing and Airbus full flight simulators flying by day, and I ship software by directing AI coding agents: I own the architecture, the review and the test suites, and the agents write most of the code.
+**Flight simulator engineer who builds software, with 10 years in aviation.** I keep Boeing and Airbus full flight simulators flying by day and build software on the side, working with AI coding agents and testing what they write.
 
 🌐 **[dillongreen.dev](https://dillongreen.dev)** · ✉️ dillon@dillongreen.dev
 
